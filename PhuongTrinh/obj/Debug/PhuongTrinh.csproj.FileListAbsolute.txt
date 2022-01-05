@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\DataType\PhanSo\bin\Debug\PhanSo.exe.config
+C:\Users\Admin\source\repos\DataType\PhanSo\bin\Debug\PhanSo.exe
+C:\Users\Admin\source\repos\DataType\PhanSo\bin\Debug\PhanSo.pdb
+C:\Users\Admin\source\repos\DataType\PhanSo\obj\Debug\PhuongTrinh.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DataType\PhanSo\obj\Debug\PhuongTrinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataType\PhanSo\obj\Debug\PhanSo.exe
+C:\Users\Admin\source\repos\DataType\PhanSo\obj\Debug\PhanSo.pdb

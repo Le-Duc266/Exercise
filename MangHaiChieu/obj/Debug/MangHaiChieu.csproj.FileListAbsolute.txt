@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\obj\Debug\MangHaiChieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\bin\Debug\MangHaiChieu.exe.config
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\bin\Debug\MangHaiChieu.exe
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\bin\Debug\MangHaiChieu.pdb
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\obj\Debug\MangHaiChieu.exe
+C:\Users\Admin\source\repos\DataType\MangHaiChieu\obj\Debug\MangHaiChieu.pdb
